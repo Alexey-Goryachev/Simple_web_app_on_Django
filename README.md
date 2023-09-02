@@ -2,6 +2,7 @@
 This is a small site with authors and their quotes.
 
 To launch the application:
+
 1.Install all necessary packages and extensions.
 
 2.If necessary, connect to the db.sqlite3 database.
